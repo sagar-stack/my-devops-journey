@@ -1,0 +1,5 @@
+WEEKLY STATUS REPORT
+====================
+System:web_server| Status:online
+System:Database| Status:down
+System:backup_server| Status:online
