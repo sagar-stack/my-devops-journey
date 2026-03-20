@@ -1,2 +1,8 @@
 myenv/
 *.log
+
+# Ignore the test_env 
+test_env/
+
+# Ignore the environment secrets
+.env
