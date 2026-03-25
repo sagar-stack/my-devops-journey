@@ -8,6 +8,3 @@ password = os.getenv("DBPASSWORD")
 url = os.getenv("TARGET_URL")
 
 print(f"Connecting to {url} using password: {password}")
-
-
-
